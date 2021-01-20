@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/embulk-input-marketo-through-proxy.svg)](https://badge.fury.io/rb/embulk-input-marketo-through-proxy)
+
 # Marketo input plugin for Embulk (through proxy)
 
 * This plugin is an extension of [embulk-input-marketo](https://rubygems.org/gems/embulk-input-marketo) that allows you to access Marketo API through a proxy server.
